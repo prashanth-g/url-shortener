@@ -1,7 +1,7 @@
-package com.prashanth.urlshortner.controller;
+package com.prashanth.urlshortener.controller;
 
-import com.prashanth.urlshortner.model.TinyUrl;
-import com.prashanth.urlshortner.service.TinyUrlService;
+import com.prashanth.urlshortener.model.TinyUrl;
+import com.prashanth.urlshortener.service.TinyUrlService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

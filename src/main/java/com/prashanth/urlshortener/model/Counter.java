@@ -1,4 +1,4 @@
-package com.prashanth.urlshortner.model;
+package com.prashanth.urlshortener.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;

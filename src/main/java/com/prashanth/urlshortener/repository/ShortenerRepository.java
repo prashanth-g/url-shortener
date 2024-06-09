@@ -1,6 +1,6 @@
-package com.prashanth.urlshortner.repository;
+package com.prashanth.urlshortener.repository;
 
-import com.prashanth.urlshortner.model.TinyUrl;
+import com.prashanth.urlshortener.model.TinyUrl;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

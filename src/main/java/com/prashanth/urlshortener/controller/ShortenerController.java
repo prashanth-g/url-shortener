@@ -1,6 +1,6 @@
-package com.prashanth.urlshortner.controller;
+package com.prashanth.urlshortener.controller;
 
-import com.prashanth.urlshortner.service.ShortenerService;
+import com.prashanth.urlshortener.service.ShortenerService;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;

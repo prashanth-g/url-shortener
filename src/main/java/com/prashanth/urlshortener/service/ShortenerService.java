@@ -1,9 +1,9 @@
-package com.prashanth.urlshortner.service;
+package com.prashanth.urlshortener.service;
 
-import com.prashanth.urlshortner.model.Counter;
-import com.prashanth.urlshortner.model.TinyUrl;
-import com.prashanth.urlshortner.repository.CounterRepository;
-import com.prashanth.urlshortner.repository.ShortenerRepository;
+import com.prashanth.urlshortener.model.Counter;
+import com.prashanth.urlshortener.model.TinyUrl;
+import com.prashanth.urlshortener.repository.CounterRepository;
+import com.prashanth.urlshortener.repository.ShortenerRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.Optional;
