@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>URL Shortener</title>
+</head>
+<body>
+    <h1>URL Shortener</h1>
+    <form action="#" th:action="@{/shorten}" method="post">
+        <label for="url">Long URL:</label><br>
+        <input type="text" id="url" name="url" required><br>
+        <input type="submit" value="Shorten">
+    </form>
+</body>
+</html>
